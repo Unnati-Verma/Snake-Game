@@ -1,2 +1,2 @@
-# flappy-bird-game
+# snake-game
 Snake Game Python
